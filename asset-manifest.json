@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pandu/static/css/main.e6c13ad2.css",
+    "main.js": "/pandu/static/js/main.5d971b10.js",
+    "static/js/787.0f7dc5a1.chunk.js": "/pandu/static/js/787.0f7dc5a1.chunk.js",
+    "index.html": "/pandu/index.html",
+    "main.e6c13ad2.css.map": "/pandu/static/css/main.e6c13ad2.css.map",
+    "main.5d971b10.js.map": "/pandu/static/js/main.5d971b10.js.map",
+    "787.0f7dc5a1.chunk.js.map": "/pandu/static/js/787.0f7dc5a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5d971b10.js"
+  ]
+}
